@@ -1,11 +1,11 @@
 {
-  "name": "Cafe Coffee",
+  "name": "Cafe Coffee App",
   "short_name": "Cafe",
-  "description": "Aplikasi Cafe Coffee untuk memesan dan melihat menu.",
+  "description": "Aplikasi Cafe Coffee",
   "start_url": "/index.html",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#4caf50",
+  "theme_color": "#000000",
   "icons": [
     {
       "src": "/icon.png",
